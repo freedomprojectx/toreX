@@ -1,2 +1,2 @@
 # toreX
-The project code will be publicly made available once there is a clear established lineage of coins. This is to prevent a situation where multiple forks happen too early on as that would cause confusion. At the moment, you can find the App at http://www.
+The project code will be publicly made available once there is a clear established lineage of coins. At the moment X-Uhuru is in pre-release stage as the testing stage was recently completed, so you can use it while it is undergoing performance monitoring. At the moment. Start by downloading the android toreX App at https://xgateway.me
